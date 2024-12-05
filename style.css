@@ -1,0 +1,53 @@
+body{
+    background-image: url(assets/mountains-home.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+.vector{
+    position: absolute;
+    margin: 40px 0 0 72px;
+}
+
+.start{
+    padding: 50px 0 0 154px;
+}
+
+.start a{
+    font-family: "Roboto", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    color: #fff;
+    
+    padding-left: 43px;
+    text-decoration: none;
+}
+
+h1{
+    font-family: "Roboto", system-ui;
+    font-weight: 700;
+    font-size: 48px;
+    text-align: center;
+    color: #fff;
+}
+
+p{
+    font-family: "Roboto", system-ui;
+    font-weight: 400;
+    color: #fff;
+}
+
+button{
+    background-color: transparent;
+    display: block;
+    margin: auto;
+    border-radius: 5px;
+    border-color:#fff;
+    padding: 12px;
+    color: #fff;
+    
+}
